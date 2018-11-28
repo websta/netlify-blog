@@ -6,3 +6,5 @@ thumbnail: /images/uploads/anna_reloaded.jpg
 rating: '1'
 ---
 This is my first entry!
+
+Update to the first entry!
